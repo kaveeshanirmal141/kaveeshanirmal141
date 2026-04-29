@@ -1,12 +1,14 @@
 # Kaveesha Nirmal — Cybersecurity Practitioner
 
-I focus on Cloud Security & Redteaming. Consistent in learning how systems work & gaining hands-on-lab experience.
+I focus on Cloud Security, Red Teaming, and building AI-powered systems.  
+Hands-on in understanding how systems break and how to automate and secure them at scale.
 
 ---
 
 ## Core Focus
 - Red Teaming (Active Directory, Web, Cloud)
-- Detection-aware exploitation (understanding both offense and impact)
+- Detection-aware exploitation (offense with defensive awareness)
+- AI for security & automation (LLMs, agents, prompt engineering)
 - Secure SaaS development alongside offensive security
 
 ---
@@ -35,10 +37,15 @@ I focus on Cloud Security & Redteaming. Consistent in learning how systems work 
 - Windows Server 2022, Windows 10-11, Linux  
 
 **Cloud**
-- AWS (IAM, S3, EC2 attack surface), Azure & GCP
+- AWS (IAM, S3, EC2 attack surface), Azure, GCP  
 
 **Development**
 - Python, Bash, PowerShell, HTML/CSS  
+
+**AI & Automation**
+- LLM fundamentals, prompt engineering  
+- Building AI agents for task automation  
+- API integrations for intelligent workflows  
 
 **Infrastructure**
 - Docker, GitHub, Vercel  
@@ -48,7 +55,7 @@ I focus on Cloud Security & Redteaming. Consistent in learning how systems work 
 ## Certifications & Training
 - WEB-RTA — Web Red Team Analyst  
 - AD-RTS — Active Directory Red Team Specialist  
-- MCRTA — Multi-Cloud Red Team Analyst 
+- MCRTA — Multi-Cloud Red Team Analyst  
 - TryHackMe — Top-ranked learner (top percentile globally)  
 
 ---
@@ -58,16 +65,17 @@ I focus on Cloud Security & Redteaming. Consistent in learning how systems work 
 - Active Directory attack lab (enterprise simulation)  
 - Vulnerable web applications for exploitation practice  
 - Security writeups and attack chain breakdowns  
-- **forrcle** — SaaS platform for automated AI powered payment reminders. 
+- **Forrcle** — SaaS platform for automated AI-powered payment reminders  
 
 ---
 
 ## Current Focus
 - Advanced Active Directory attacks & ADCS abuse  
-- Cloud Red Teaming (multi-cloud environments) - AWS, Azure & GCP
-- Building secure, scalable SaaS systems  
+- Cloud Red Teaming (AWS, Azure, GCP)  
+- Building AI agents for security workflows & automation  
+- Learning LLM systems and prompt engineering deeply  
 
 ---
 
 ## Goal
-Become a high-impact offensive security engineer while building globally used SaaS products.
+Become a high-impact offensive security engineer leveraging AI, while building globally used SaaS products.
