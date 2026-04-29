@@ -1,6 +1,6 @@
 # Kaveesha Nirmal — Cybersecurity Practitioner
 
-I focus on breaking systems to understand real-world attack paths, then applying that knowledge to build secure applications.
+I focus on Cloud Security & Redteaming. Consistent in learning how systems work & gaining hands-on-lab experience.
 
 ---
 
@@ -26,7 +26,7 @@ I focus on breaking systems to understand real-world attack paths, then applying
 ## Tools & Tech
 
 **Offensive**
-- Kali Linux, Metasploit, Burp Suite, Nmap, Netcat  
+- Kali Linux, Metasploit, Burp Suite, Nmap, Netcat and more
 
 **Analysis**
 - Wireshark, Splunk, Wazuh (basics)  
@@ -35,7 +35,7 @@ I focus on breaking systems to understand real-world attack paths, then applying
 - Windows Server 2022, Windows 10-11, Linux  
 
 **Cloud**
-- AWS (IAM, S3, EC2 attack surface)  
+- AWS (IAM, S3, EC2 attack surface), Azure & GCP
 
 **Development**
 - Python, Bash, PowerShell, HTML/CSS  
@@ -48,7 +48,7 @@ I focus on breaking systems to understand real-world attack paths, then applying
 ## Certifications & Training
 - WEB-RTA — Web Red Team Analyst  
 - AD-RTS — Active Directory Red Team Specialist  
-- MCRTA — Multi-Cloud Red Team Analyst *(in progress)*  
+- MCRTA — Multi-Cloud Red Team Analyst 
 - TryHackMe — Top-ranked learner (top percentile globally)  
 
 ---
@@ -58,13 +58,13 @@ I focus on breaking systems to understand real-world attack paths, then applying
 - Active Directory attack lab (enterprise simulation)  
 - Vulnerable web applications for exploitation practice  
 - Security writeups and attack chain breakdowns  
-- **Forrcle** — SaaS platform for client workflow management  
+- **forrcle** — SaaS platform for automated AI powered payment reminders. 
 
 ---
 
 ## Current Focus
 - Advanced Active Directory attacks & ADCS abuse  
-- Cloud Red Teaming (AWS / multi-cloud environments)  
+- Cloud Red Teaming (multi-cloud environments) - AWS, Azure & GCP
 - Building secure, scalable SaaS systems  
 
 ---
