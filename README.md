@@ -1,4 +1,4 @@
-# Kaveesha Nirmal | Cloudecurity Practitioner
+# Kaveesha Nirmal | Cloudsecurity Practitioner
 ![Image Alt](https://github.com/kaveeshanirmal141/kaveeshanirmal141/blob/main/README%20Banner.jpeg?raw=true)
 I focus on Cloud Security, Red Teaming, and building AI-powered systems.  
 Hands-on in understanding how systems break and how to automate and secure them at scale.
