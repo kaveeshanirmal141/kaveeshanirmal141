@@ -1,4 +1,4 @@
-# Kaveesha Nirmal — Cybersecurity Practitioner
+# Kaveesha Nirmal | Cloudecurity Practitioner
 ![Image Alt](https://github.com/kaveeshanirmal141/kaveeshanirmal141/blob/main/README%20Banner.jpeg?raw=true)
 I focus on Cloud Security, Red Teaming, and building AI-powered systems.  
 Hands-on in understanding how systems break and how to automate and secure them at scale.
@@ -6,7 +6,7 @@ Hands-on in understanding how systems break and how to automate and secure them 
 ---
 
 ## Core Focus
-- Red Teaming (Active Directory, Web, Cloud)
+- Red Teaming (Cloudsecurity, Active Directory & Web)
 - Detection-aware exploitation (offense with defensive awareness)
 - AI for security & automation (LLMs, agents, prompt engineering)
 - Secure SaaS development alongside offensive security
@@ -34,7 +34,7 @@ Hands-on in understanding how systems break and how to automate and secure them 
 - Wireshark, Splunk, Wazuh (basics)  
 
 **Systems**
-- Windows Server 2022, Windows 10-11, Linux  
+- Windows Server 2022, Windows 10-11, Kali & Ubuntu Linux 
 
 **Cloud**
 - AWS (IAM, S3, EC2 attack surface), Azure, GCP  
@@ -48,7 +48,7 @@ Hands-on in understanding how systems break and how to automate and secure them 
 - API integrations for intelligent workflows  
 
 **Infrastructure**
-- Docker, GitHub, Vercel  
+- Docker, GitHub, Vercel, Terraform  
 
 ---
 
@@ -65,7 +65,7 @@ Hands-on in understanding how systems break and how to automate and secure them 
 - Active Directory attack lab (enterprise simulation)  
 - Vulnerable web applications for exploitation practice  
 - Security writeups and attack chain breakdowns  
-- **Forrcle** — SaaS platform for automated AI-powered payment reminders  
+- **Plexavo** - Opencore cloudsecurity tool dedicated in finding misconfigs in AWS infrastructures
 
 ---
 
